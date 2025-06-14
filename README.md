@@ -8,7 +8,7 @@
 
 ## 🌐 Live Preview
 
-(👉)
+(👉 https://healthcare-ai-pied.vercel.app/)
 
 ---
 
